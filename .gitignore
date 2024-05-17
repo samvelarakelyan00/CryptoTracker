@@ -1,2 +1,6 @@
 .idea
 venv
+.env
+Backend/app/api/__pycache__/
+Backend/app/api/endpoints/__pycache__/
+Backend/app/core/__pycache__/
