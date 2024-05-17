@@ -4,3 +4,4 @@ venv
 Backend/app/api/__pycache__/
 Backend/app/api/endpoints/__pycache__/
 Backend/app/core/__pycache__/
+node_modules/
